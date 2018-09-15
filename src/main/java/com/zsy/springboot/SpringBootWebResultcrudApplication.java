@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootWebResultcrudApplication {
 
 	public static void main(String[] args) {
-		//你怕是失了智
+		//测试分支
 		SpringApplication.run(SpringBootWebResultcrudApplication.class, args);
 	}
 }
