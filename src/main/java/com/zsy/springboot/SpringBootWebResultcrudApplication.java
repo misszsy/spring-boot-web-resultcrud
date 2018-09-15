@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootWebResultcrudApplication {
 
 	public static void main(String[] args) {
-		//clone在在在测试
+		//clone在在在在测试
 		SpringApplication.run(SpringBootWebResultcrudApplication.class, args);
 	}
 }
